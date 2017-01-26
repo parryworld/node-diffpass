@@ -1,0 +1,28 @@
+{
+  "name": "diffpass",
+  "version": "1.0.0",
+  "description": "Generates different passwords for your accounts",
+  "main": "./lib/diffpass.js",
+  "bin": {
+    "diffpass": "./bin/diffpass.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parryworld/node-diffpass.git"
+  },
+  "keywords": [
+    "password",
+    "generator"
+  ],
+  "author": "parryworld",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "md5": "^2.2.1",
+    "promptly": "^2.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/parryworld/node-diffpass/issues"
+  },
+  "homepage": "https://github.com/parryworld/node-diffpass"
+}
