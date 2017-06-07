@@ -1,6 +1,6 @@
 {
   "name": "diffpass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates different passwords for your accounts",
   "main": "./lib/diffpass.js",
   "bin": {
